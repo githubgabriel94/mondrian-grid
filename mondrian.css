@@ -18,11 +18,11 @@ body {
 }
 
 .box {
-    background-color: white;
+    background-color: #F0F1EC;
 }
 
 .red {
-    background-color: red;
+    background-color: #E72F24;
 }
 
 .white1 {
@@ -38,7 +38,7 @@ body {
 }
 
 .blue {
-    background-color: blue;
+    background-color: #004592;
     border-bottom: 10px solid black;
 }
 
@@ -47,9 +47,9 @@ body {
 }
 
 .yellow {
-    background-color: yellow;
+    background-color: #F9D01E;
 }
 
 .black {
-    background-color: black;
+    background-color: #232629;
 }
